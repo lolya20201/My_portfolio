@@ -1,0 +1,9 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(to bottom, white, lightblue);
+}
+
+.social:hover {
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 100px;
+}
