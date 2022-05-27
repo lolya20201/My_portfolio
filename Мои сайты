@@ -1,4 +1,3 @@
-
 <html>
   <head>
     <title>My Sites</title>
@@ -11,8 +10,9 @@
     <main>
       <h1>Мои сайты</h1>
       <p class="text-big"><b>от конструктора Tilda до вёрстки на HTML и CSS</b></p>
+      <img src="https://bigpicture.ru/wp-content/uploads/2020/05/sozdanie-sajtov.png" width="600px" height="400px"/>
       <p><a class="link-text" href="http://cat-home-with-love.tilda.ws/"><b>Сайт</b></a> по игре PvZ (Plant vs Zombies) был собран в Tilda</p>
-        <p><a class="link-text" href="https://kurs-ss-vilboa.github.io/-3-4-/"><b>Сайт</b></a> игровой студии, стили были написаны в атрибуте style</p>
+        <p><a class="link-text" href="http://plantvszombies.tilda.ws/"><b>Сайт</b></a> игровой студии, стили были написаны в атрибуте style</p>
         <p><a class="link-text" href="https://nadvilboa.github.io/4-4-1/"><b>Сайт</b></a> магазина фейерверков, CSS-селекторы, файл стилей</p>
       <p><a class="link-text" href="https://www.figma.com/file/M107qey8ngLWgc2Ux9LD5v/Untitled1"><b>Макет</b></a> многостраничного сайта, сделанный в Figma</p>
         <p><a class="link-text" href="https://nadvilboa.github.io/5-4-1/"><b>Сайт</b></a> семьи Самойловых, вёрстка по макету, отступы</p>
