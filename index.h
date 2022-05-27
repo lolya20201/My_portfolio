@@ -2,6 +2,7 @@
   <head>
     <title>Полезная информация</title>
     <link rel="stylesheet" href="style.css"/>
+    <meta name="google-site-verification" content="qXE3RwdcfXwr4DudysrWYT9n9NlW2I3uSZ8v4IIrH0U" />
   </head>
   <body>
     <header>
