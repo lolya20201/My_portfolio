@@ -1,0 +1,28 @@
+<html>
+  <head>
+    <title>Кофтунов Иван</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="leonov.html"><img src="https://sun9-79.userapi.com/s/v1/if2/vH9A_5WPMdYRa_b2uyzg4wMIHlYFvIiMqs64t820nlDvwbaAhv_UUf1py7P9GazkyjBmh_OkHm3D-srkRwYkTwLm.jpg?size=810x1080&quality=95&type=album" height = "125px">Кофтунов Иван</a>
+    </header>
+    <main>
+      <nav>
+        <a class="link-nav" href="mysites.html"><b>мои лучшие работы</b></a>
+        <a class="link-nav" href="info.html"><b>полезная информация</b></a>
+      </nav>
+      <h1>Web-sites<br/> developer</h1>
+      <p>разметка и стилизация</p>
+      <p>вёрстка сетчатых макетов</p>
+      <p>двумерные анимации и интерактивные элементы</p>
+      <p>мультимедиа на сайте</p>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/800px-Steam_icon_logo.svg.png" width="400px" height="400px"/>
+    </main>
+    <footer>
+      <a class="social" href=""><img src="/uploads/2021/04/social1_0_1618254571.png" width="100px" height="100px"/></a>
+      <a class="social" href=""><img src="/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
+      <a class="social" href=""><img src="/uploads/2021/04/social3_0_1618254571.png" width="100px" height="100px"/></a>
+    </footer>
+  </body>
+</html>
